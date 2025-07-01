@@ -1,0 +1,33 @@
+h3{
+    color: brown;
+    text-align: center;
+}
+p{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    text-align: center;
+    color: chartreuse;
+}
+li{
+    color: aquamarine;
+    border: 20px solid rebeccapurple;
+    border-radius: 20px;
+    margin: 20px;
+    text-align: center;
+    box-shadow: 5px 5px 5px 5px gold;
+}
+.back{
+   /* display: none;*/
+}
+#image{
+    display: inline-block;
+   /* visibility: hidden ;*/
+}
+.img{
+    background-image: url('download.jpg');
+    background-attachment: fixed;
+}
+body{
+    background-color: blueviolet;
+}
